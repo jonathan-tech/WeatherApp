@@ -7,6 +7,6 @@ class City(models.Model):
 
     def __str__(self):
         return self.name
-    #city ies instead of s
+    #cities instead of city
     class Meta:
         verbose_name_plural = 'cities'
