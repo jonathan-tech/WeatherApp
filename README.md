@@ -16,3 +16,4 @@ When the user opens the WeatherApp, a page will display with an empty input box 
 - How to manipulate data from a database
 - How to access an API and collect information
 
+<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/kGoWLdEgNNnaTiFbAi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kGoWLdEgNNnaTiFbAi">via GIPHY</a></p>
