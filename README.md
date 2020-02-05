@@ -10,8 +10,7 @@ When the user opens the WeatherApp, a page will display with an empty input box 
 
 ## Pictures
 ![weatherapp1](https://user-images.githubusercontent.com/52792667/73885374-a6600a80-4835-11ea-8df8-7298b7e25821.PNG)
-
-
+##
 ![weather2](https://user-images.githubusercontent.com/52792667/73885553-022a9380-4836-11ea-8852-b0b23aa773af.PNG)
 
 
