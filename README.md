@@ -7,6 +7,9 @@ When the user opens the WeatherApp, a page will display with an empty input box 
 
 <a href="https://imgflip.com/gif/3o9xa1"><img src="https://i.imgflip.com/3o9xa1.gif" title=""/></a>
 
+![weatherapp1](https://user-images.githubusercontent.com/52792667/73885374-a6600a80-4835-11ea-8df8-7298b7e25821.PNG)
+
+
 
 
 ## What I learned
