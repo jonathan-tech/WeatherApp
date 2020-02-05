@@ -5,7 +5,8 @@
 ## Functionality
 When the user opens the WeatherApp, a page will display with an empty input box and a button that reads "Add City". By submiting a City, the Python Script will call the OpenWeatherMap API and grab the Degrees, Description and Icon of that City. If Successful the City will show up at the bottom of the screen with the data that was grabed. The user can delete the City from the list if he or she wishes
 
-<iframe src="https://giphy.com/embed/kGoWLdEgNNnaTiFbAi" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kGoWLdEgNNnaTiFbAi">via GIPHY</a></p>
+<a href="https://imgflip.com/gif/3o9xa1"><img src="https://i.imgflip.com/3o9xa1.gif" title="made at imgflip.com"/></a>
+
 
 
 ## What I learned
